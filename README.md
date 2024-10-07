@@ -1,4 +1,4 @@
-[![Master Head]
+[![MasterHead]
 (https://tse3.mm.bing.net/th?id=OIP.KAIAA9Skk8eNggK6bDXxeQHaFj&pid=Api&P=0&h=180)]
 <h1 align="center">Hi 👋, I'm MARIYAM YAMINA</h1>
 <h3 align="center">A passionate frontend developer</h3>
