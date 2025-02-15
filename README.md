@@ -1,6 +1,6 @@
 [![MasterHead](https://tse4.mm.bing.net/th?id=OIP.6qnP8ZHESN0IhK15TWdahAHaFj&pid=Api&P=0&h=180)]
 <h1 align="center">Hi 👋, I'm MARIYAM YAMINA</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate fullstack Developer(MERN Stack)</h3>
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.rs2H4n-79X4kefxNh23QegHaE1&pid=Api&P=0&h=180"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariyamyamina&label=Profile%20views&color=0e75b6&style=flat" alt="mariyamyamina" /> </p>
 
